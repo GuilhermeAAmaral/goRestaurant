@@ -2,7 +2,7 @@ README
 
 Título: GoRestaurant
 
-Descrição: Objtivo desse projeto foi refatorar a aplicação que utilizava Javascript e componentes de classes para Typescript utilizando hooks e componentes funcionais.
+Descrição: Objetivo desse projeto foi refatorar a aplicação que utilizava Javascript e componentes de classes para Typescript utilizando hooks e componentes funcionais.
 Esse projeto foi desenvolvido durante o curso de especialização em React, o Ignite da Rocketseat.
 
 Funcionalidades: Listagem, adição, remoção e edição dos pratos em cardápio.
